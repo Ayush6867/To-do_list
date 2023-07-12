@@ -26,6 +26,12 @@ git clone https://github.com/your-username/todo-list.git
 
 ```python manage.py runserver```
 
+Run the Docker container
+
+```
+docker run -p 5000:5000 -d keycloak_flask
+```
+
 # Acknowledgements
 Keycloak - Open-source identity and access management for modern applications.
 
