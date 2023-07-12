@@ -1,0 +1,12 @@
+Flask==2.1.4
+Flask-GraphQL==2.0.1
+Flask-JWT-Extended==4.3.0
+Flask-Migrate==3.1.0
+Flask-Script==2.0.6
+Flask-Uploads==0.2.1
+Flask-WTF==1.0.0
+gql==3.0.0
+graphene==2.0.0
+graphene-sqlalchemy==3.0.0
+python-dotenv==0.19.0
+stripe==2.60.0
